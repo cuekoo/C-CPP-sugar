@@ -1,3 +1,3 @@
-# C Sugar
+# C/CPP Sugar
 
 
